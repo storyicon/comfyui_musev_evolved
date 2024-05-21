@@ -183,6 +183,6 @@ class MuseVImg2Vid:
         return torch.from_numpy(out_videos).permute(0,2,3,4,1)
 
 NODE_CLASS_MAPPINGS = {
-    "MuseVImg2Vid (comfyui musev evolved)": MuseVImg2Vid,
+    "MuseVImg2Vid (comfyui_musev_evolved)": MuseVImg2Vid,
 }
 
