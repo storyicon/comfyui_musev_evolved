@@ -1,6 +1,6 @@
 # ComfyUI MuseV Evolved
 
-Based on the diffusion model, let us Anymate anything.
+Based on the diffusion model, let us animate anything.
 
 > This is the ComfyUI version of [MuseV](https://github.com/TMElyralab/MuseV), which also draws inspiration from [ComfyUI-MuseV](https://github.com/chaojie/ComfyUI-MuseV). It offers more configurable parameters, making it more flexible in implementation.
 
